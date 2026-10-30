@@ -16,8 +16,6 @@ Welcome to my portfolio. I'm currently completing my B.S. in Data Analytics at W
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [Five-Year Weather Analysis](projects/five-year-weather-analysis/) | Retrieves 5 years of historical weather data via API, computes aggregates (mean temp, max wind, precip), and stores results in SQLite | Python, Pandas, SQLAlchemy, Open-Meteo API |
-| [Coming soon] | Data cleaning + analysis pipeline | Python, SQL |
-| [Coming soon] | Business metrics dashboard / visualization | Python, Plotly |
 
 ## Skills
 
