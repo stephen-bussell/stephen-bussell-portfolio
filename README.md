@@ -15,6 +15,7 @@ Welcome to my portfolio. I'm currently completing my B.S. in Data Analytics at W
 
 | Project | Description | Tools |
 |---------|-------------|-------|
+| [Field Operations Map](projects/field-ops-map/) | Application for DSI that ingests an Ossimview WebTracker data dump and displays open work orders on an interactive map, filterable by status and by Starlink vs DTV | Python, Pandas, Folium |
 | [Five-Year Weather Analysis](projects/five-year-weather-analysis/) | Retrieves 5 years of historical weather data via API, computes aggregates (mean temp, max wind, precip), and stores results in SQLite | Python, Pandas, SQLAlchemy, Open-Meteo API |
 
 ## Skills
