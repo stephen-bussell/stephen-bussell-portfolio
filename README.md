@@ -15,6 +15,7 @@ Welcome to my portfolio. I'm currently completing my B.S. in Data Analytics at W
 
 | Project | Description | Tools |
 |---------|-------------|-------|
+| [TMDb Movie Data Analysis](projects/tmdb-movie-analysis/) | Exploratory analysis of ~10,000 movies examining factors related to profit, trends in ratings and budgets over time, and the relationship between budget and ratings | Python, Pandas, NumPy |
 | [Field Operations Map](projects/field-ops-map/) | Application for DSI that ingests an Ossimview WebTracker data dump and displays open work orders on an interactive map, filterable by status and by Starlink vs DTV | Python, Pandas, Folium |
 | [Five-Year Weather Analysis](projects/five-year-weather-analysis/) | Retrieves 5 years of historical weather data via API, computes aggregates (mean temp, max wind, precip), and stores results in SQLite | Python, Pandas, SQLAlchemy, Open-Meteo API |
 
